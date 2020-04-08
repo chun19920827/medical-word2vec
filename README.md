@@ -1,5 +1,4 @@
-# medical-word2vec
-A Word2Vec model trained with Chinese medical corpus.<br><br>
+# A Word2Vec model trained with Chinese medical corpus.
 Word2Vec model has been widely used in medical NLP tasks. 
 Although new types of language model such as BERT are popular in recent years, the method of Word2Vec still has application value.<br>
 It has been proved that the model trained with medical corpus can achieve better performance than the model with general corpus. 
