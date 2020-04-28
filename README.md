@@ -6,8 +6,7 @@ However, it's pity that there are few public Word2Vec model trained with Chinese
 Here we release a Word2Vec Model trained with sufficient Chinese medical corpus. 
 Our model can be directly used in Chinese medical NLP tasks, so that researchers don't need to collect medical text and train the model from the beginning.
 ## Download
-[https://pan.baidu.com/s/1QRvsK7CBdaToiT0j7GpeyA](https://pan.baidu.com/s/1QRvsK7CBdaToiT0j7GpeyA)<br>
-Code: 4arl 
+Waiting for update
 ## Chinese Medical Corpus
 Corpus | # of words
 ------------- | -------------
